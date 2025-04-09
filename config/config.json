@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "sandia123..",
+    "database": "eastbalance",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
